@@ -1,0 +1,26 @@
+{
+  "name": "postcss-sides",
+  "description": "A PostCSS Plugin to enable 'null' in margin and padding shorthands",
+  "version": "1.0.0",
+  "author": {
+    "name": "Arpad Hegedus",
+    "email": "hegedus.arpad@gmail.com",
+    "web": "http://arpadhegedus.com"
+  },
+  "maintainers": [
+    {
+      "name": "Arpad Hegedus",
+      "email": "hegedus.arpad@gmail.com",
+      "web": "http://arpadhegedus.com"
+    }
+  ],
+  "main": "index.js",
+  "repository" : { 
+    "type": "git", 
+    "url": "https://github.com/arpadHegedus/postcss-font.git"
+  },
+  "dependencies": {
+    "postcss": "^6.0.5",
+    "postcss-plugin-utilities": "2.0.0"
+  }
+}
