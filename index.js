@@ -1,7 +1,7 @@
 /**
  * POSTCSS SIDES
  * A postcss plugin to enable 'null' in margin and padding shorthands
- * version          1.0.1
+ * version          1.0.2
  * author           Arpad Hegedus <hegedus.arpad@gmail.com>
  */
 

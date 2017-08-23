@@ -20,7 +20,7 @@
     "url": "https://github.com/arpadHegedus/postcss-sides.git"
   },
   "dependencies": {
-    "postcss": "^6.0.5",
-    "postcss-plugin-utilities": "2.0.0"
+    "postcss": "^6.0.9",
+    "postcss-plugin-utilities": "2.0.1"
   }
 }
