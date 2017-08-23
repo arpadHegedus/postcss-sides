@@ -1,7 +1,7 @@
 {
   "name": "postcss-sides",
   "description": "A PostCSS Plugin to enable 'null' in margin and padding shorthands",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Arpad Hegedus",
     "email": "hegedus.arpad@gmail.com",
